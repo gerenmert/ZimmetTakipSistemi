@@ -32,3 +32,8 @@ Birim Testi İçin
 StoktakipTest classında testlerin çalışması için gereken açıklamalar yorum satırlarına yazılmıştır. (Hata mesajı göndermesi testin başarılı olduğu anlamına gelmektedir)
 Test işlemlerinde bilgiler veritabanından alınarak test işlemi gerçekleştirilmektedir.
 
+------------------------
+
+Veritabanı İçin
+
+Projeyi açmadan önce SQL veritabanımızı oluşturmanız gerekmektedir. Veritabanı kodlarını içeren dosya Dokumanlar/SQL(Database) klasörü içerisinde "verilerimiz.sql" adında bulunmaktadır.
