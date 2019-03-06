@@ -1,0 +1,357 @@
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\MetroFramework.Design.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\MetroFramework.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\MetroFramework.Fonts.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CopyComplete
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.SatinAlma.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.Zimmet.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.AtikKontrol.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.StokTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.ZimmetTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.LoginEkran.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.KullaniciEkle.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.AtikTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.KullaniciTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.Listeler.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\itextsharp.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\EnvDTE.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\stdole.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\EnvDTE80.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\VSLangProj.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\VSLangProj80.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Newtonsoft.Json.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.MSXML.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.Build.Framework.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\VSLangProj2.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\itextsharp.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.exe.config
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.Rapor1.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\StokTakip\StokTakip\obj\Debug\StokTakip.BolumRapor.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\itextsharp.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\MetroFramework.Design.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\MetroFramework.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\MetroFramework.Fonts.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\EnvDTE.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\stdole.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\EnvDTE80.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\VSLangProj.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\VSLangProj80.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Newtonsoft.Json.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.MSXML.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.Build.Framework.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\VSLangProj2.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\itextsharp.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.exe.config
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.Aramalar.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.AtikKontrol.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.AtikTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.BolumRapor.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.KullaniciEkle.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.KullaniciTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.Listeler.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.LoginEkran.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.Rapor1.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.SatinAlma.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.StokTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.Zimmet.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.ZimmetTablosu.resources
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CopyComplete
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+D:\Sinif_3\yazılım SINAMA PROJE OTOMASYON ORNEKLERİ\Yazlilim sinama Devexpress\C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon Geliştirin\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\itextsharp.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\MetroFramework.Design.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\MetroFramework.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\EnvDTE.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\stdole.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\EnvDTE80.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\VSLangProj.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\VSLangProj80.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\VSLangProj2.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\itextsharp.xml
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\tr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\bin\Debug\tr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.exe.config
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.AtikKontrol.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.AtikTablosu.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.BolumRapor.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.KullaniciEkle.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.KullaniciTablosu.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.Listeler.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.LoginEkran.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.Rapor1.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.SatinAlma.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.StokTablosu.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.Zimmet.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.ZimmetTablosu.resources
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.csproj.CopyComplete
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\mertg\Desktop\ÜNİVERSİTE\5. DÖNEM\Yazılım Sınama\Dersin Projesi (Stok Otomasyonu)\StokTakipProject\StokTakip\obj\Debug\StokTakip.pdb
