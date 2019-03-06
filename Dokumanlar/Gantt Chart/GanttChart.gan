@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="GanttZimmetTakipSistemi" company="GanttProject" webLink="https://www.ganttproject.biz" view-date="2018-11-26" view-index="0" gantt-divider-location="632" resource-divider-location="545" version="2.8.9" locale="tr">
+    <description><![CDATA[This is a Gantt Project Zimmet Takip Sitemi]]></description>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="İsim" width="293" order="0"/>
+        <field id="tpd4" name="Başlangıç tarihi" width="168" order="1"/>
+        <field id="tpd5" name="Bitiş tarihi" width="167" order="2"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="İsim" width="325" order="0"/>
+        <field id="1" name="Varsayılan rol" width="201" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="6" name="Proje" color="#8cb6ce" meeting="false" start="2018-11-30" duration="20" complete="100" thirdDate="2018-11-30" thirdDate-constraint="0" expand="true"/>
+        <task id="32" name="Gereksinimler, Planlama" color="#8cb6ce" meeting="false" start="2018-11-30" duration="8" complete="100" thirdDate="2018-11-30" thirdDate-constraint="0" expand="true">
+            <task id="35" name="Gereksinimlerin Çıkarılması" color="#8cb6ce" meeting="false" start="2018-11-30" duration="8" complete="100" thirdDate="2018-11-23" thirdDate-constraint="0" expand="true"/>
+            <task id="52" name="Veri Tabanı Planının Oluşturulması" color="#8cb6ce" meeting="false" start="2018-12-07" duration="1" complete="100" thirdDate="2018-12-07" thirdDate-constraint="0" expand="true"/>
+            <task id="56" name="Ekran Tasarım Planının Oluşturulması" color="#8cb6ce" meeting="false" start="2018-12-07" duration="1" complete="100" thirdDate="2018-12-07" thirdDate-constraint="0" expand="true"/>
+            <task id="58" name="Veri Tabanı Tablolarının Oluşturulması" color="#8cb6ce" meeting="false" start="2018-12-10" duration="2" complete="100" thirdDate="2018-12-10" thirdDate-constraint="0" expand="true"/>
+            <task id="60" name="MetroFramework Kurulumu" color="#8cb6ce" meeting="false" start="2018-12-10" duration="2" complete="100" thirdDate="2018-12-10" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="63" name="Gerçekleştirme" color="#8cb6ce" meeting="false" start="2018-12-11" duration="3" complete="100" thirdDate="2018-12-11" thirdDate-constraint="0" expand="true">
+            <task id="70" name="Ekran Tasarımlarının Oluşturulması" color="#8cb6ce" meeting="false" start="2018-12-11" duration="3" complete="100" thirdDate="2018-12-11" thirdDate-constraint="0" expand="true"/>
+            <task id="72" name="Veri Tabanı Tablolarının İlişkilendirilmesi" color="#8cb6ce" meeting="false" start="2018-12-11" duration="3" complete="100" thirdDate="2018-12-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="141" name="Entegre Etme" color="#8cb6ce" meeting="false" start="2018-12-14" duration="2" complete="100" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true">
+            <task id="143" name="SQL Veri Tabanının VS'ye aktarımı" color="#8cb6ce" meeting="false" start="2018-12-14" duration="1" complete="100" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="145" name="Ekran Tasarımlarının Veri Tabanı Bağlantısının Yapılması" color="#8cb6ce" meeting="false" start="2018-12-17" duration="1" complete="100" thirdDate="2018-12-17" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="147" name="Kaynak Kodlar" color="#8cb6ce" meeting="false" start="2018-12-17" duration="6" complete="100" thirdDate="2018-12-17" thirdDate-constraint="0" expand="true">
+            <task id="149" name="Projenin Geliştirilmesi" color="#8cb6ce" meeting="false" start="2018-12-17" duration="6" complete="100" thirdDate="2018-12-17" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="151" name="Dökümantasyon" color="#8cb6ce" meeting="false" start="2018-11-30" duration="20" complete="100" thirdDate="2018-11-16" thirdDate-constraint="0" expand="true">
+            <task id="153" name="Şartnamenin Oluşturulması" color="#8cb6ce" meeting="false" start="2018-11-30" duration="6" complete="100" thirdDate="2018-11-30" thirdDate-constraint="0" expand="true"/>
+            <task id="158" name="Test Dökümanının Oluşturulması" color="#8cb6ce" meeting="false" start="2018-12-25" duration="2" complete="100" thirdDate="2018-12-25" thirdDate-constraint="0" expand="true"/>
+            <task id="160" name="Gantt Çizelgesinin Oluşturulması" color="#8cb6ce" meeting="false" start="2018-12-27" duration="1" complete="100" thirdDate="2018-12-25" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="163" name="Testler" color="#8cb6ce" meeting="false" start="2018-12-25" duration="3" complete="100" thirdDate="2018-12-25" thirdDate-constraint="0" expand="true">
+            <task id="165" name="Projenin Test Edilmesi" color="#8cb6ce" meeting="false" start="2018-12-25" duration="3" complete="100" thirdDate="2018-12-25" thirdDate-constraint="0" expand="true"/>
+            <task id="168" name="Dökümanların Test Edilmesi" color="#8cb6ce" meeting="false" start="2018-12-25" duration="3" complete="100" thirdDate="2018-12-25" thirdDate-constraint="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources>
+        <resource id="0" name="Mert Geren" function="Default:1" contacts="gerenmert@outlook.com" phone="05319381004"/>
+        <resource id="1" name="Serdar Yorulmaz" function="8" contacts="" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="6" resource-id="0" function="Default:1" responsible="true" load="50.0"/>
+        <allocation task-id="32" resource-id="0" function="SoftwareDevelopment:5" responsible="true" load="50.0"/>
+        <allocation task-id="35" resource-id="0" function="SoftwareDevelopment:5" responsible="false" load="50.0"/>
+        <allocation task-id="52" resource-id="0" function="Default:1" responsible="true" load="50.0"/>
+        <allocation task-id="56" resource-id="0" function="SoftwareDevelopment:3" responsible="false" load="50.0"/>
+        <allocation task-id="58" resource-id="0" function="Default:1" responsible="true" load="50.0"/>
+        <allocation task-id="60" resource-id="0" function="SoftwareDevelopment:3" responsible="false" load="30.0"/>
+        <allocation task-id="63" resource-id="0" function="Default:1" responsible="true" load="50.0"/>
+        <allocation task-id="72" resource-id="0" function="SoftwareDevelopment:3" responsible="true" load="100.0"/>
+        <allocation task-id="141" resource-id="0" function="8" responsible="true" load="50.0"/>
+        <allocation task-id="143" resource-id="0" function="9" responsible="true" load="50.0"/>
+        <allocation task-id="145" resource-id="0" function="10" responsible="true" load="50.0"/>
+        <allocation task-id="147" resource-id="0" function="8" responsible="true" load="50.0"/>
+        <allocation task-id="149" resource-id="0" function="13" responsible="true" load="100.0"/>
+        <allocation task-id="151" resource-id="0" function="8" responsible="false" load="30.0"/>
+        <allocation task-id="163" resource-id="0" function="8" responsible="true" load="50.0"/>
+        <allocation task-id="165" resource-id="0" function="14" responsible="false" load="50.0"/>
+        <allocation task-id="168" resource-id="0" function="14" responsible="true" load="50.0"/>
+        <allocation task-id="6" resource-id="1" function="Default:1" responsible="true" load="50.0"/>
+        <allocation task-id="32" resource-id="1" function="SoftwareDevelopment:5" responsible="true" load="50.0"/>
+        <allocation task-id="35" resource-id="1" function="SoftwareDevelopment:5" responsible="true" load="50.0"/>
+        <allocation task-id="52" resource-id="1" function="8" responsible="false" load="50.0"/>
+        <allocation task-id="56" resource-id="1" function="SoftwareDevelopment:3" responsible="true" load="50.0"/>
+        <allocation task-id="58" resource-id="1" function="8" responsible="false" load="50.0"/>
+        <allocation task-id="60" resource-id="1" function="SoftwareDevelopment:3" responsible="true" load="70.0"/>
+        <allocation task-id="63" resource-id="1" function="Default:1" responsible="true" load="50.0"/>
+        <allocation task-id="70" resource-id="1" function="SoftwareDevelopment:3" responsible="true" load="100.0"/>
+        <allocation task-id="141" resource-id="1" function="Default:1" responsible="false" load="50.0"/>
+        <allocation task-id="143" resource-id="1" function="9" responsible="false" load="50.0"/>
+        <allocation task-id="145" resource-id="1" function="9" responsible="false" load="50.0"/>
+        <allocation task-id="147" resource-id="1" function="8" responsible="false" load="50.0"/>
+        <allocation task-id="149" resource-id="1" function="13" responsible="false" load="100.0"/>
+        <allocation task-id="151" resource-id="1" function="8" responsible="true" load="70.0"/>
+        <allocation task-id="153" resource-id="1" function="11" responsible="true" load="100.0"/>
+        <allocation task-id="158" resource-id="1" function="11" responsible="true" load="100.0"/>
+        <allocation task-id="160" resource-id="1" function="11" responsible="true" load="100.0"/>
+        <allocation task-id="163" resource-id="1" function="8" responsible="false" load="50.0"/>
+        <allocation task-id="165" resource-id="1" function="14" responsible="true" load="50.0"/>
+        <allocation task-id="168" resource-id="1" function="14" responsible="false" load="50.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+    <roles>
+        <role id="8" name="Proje Ekibi"/>
+        <role id="9" name="Veritabanı işlemleri"/>
+        <role id="10" name="Tasarım işlemleri"/>
+        <role id="11" name="Dokümantasyon"/>
+        <role id="12" name="Gereksinimler"/>
+        <role id="13" name="Kodlama"/>
+        <role id="14" name="Testler"/>
+    </roles>
+</project>
